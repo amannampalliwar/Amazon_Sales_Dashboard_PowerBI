@@ -6,25 +6,24 @@ Project Overview
 This project presents an interactive Amazon Sales Performance Dashboard developed using Power BI to analyze sales performance, customer behavior, product trends, and regional insights. The dashboard transforms raw sales data into actionable business intelligence through KPIs, visualizations, and interactive filters.
 
 Objectives
-Analyze overall sales performance and order trends.
-Identify top-performing products and brands.
-Monitor customer and regional sales patterns.
-Evaluate payment methods and order status distribution.
-Generate business insights for data-driven decision-making.
+ Analyze overall sales performance and order trends.
+ Identify top-performing products and brands.
+ Monitor customer and regional sales patterns.
+ Evaluate payment methods and order status distribution.
+ Generate business insights for data-driven decision-making.
 
-Dataset Information:
-
+Dataset Information
 Dataset: Amazon Sales Dataset
 Records: 1,00,000+
 Features: Order Details, Customer Information, Product Details, Sales Metrics, Payment Methods, Regional Data, and Order Status.
 
-Tools & Technologies:
-
+Tools & Technologies
 Power BI Desktop
 Power Query
 DAX (Data Analysis Expressions)
 Data Cleaning & Transformation
 Data Visualization
+
 Key Performance Indicators (KPIs)
 Total Sales
 Total Orders
@@ -33,6 +32,7 @@ Total Quantity Sold
 Average Order Value
 Average Discount
 Average Shipping Cost
+
 Dashboard Visualizations
 Monthly Sales Trend Analysis
 Sales by Category
@@ -42,6 +42,7 @@ State-wise Sales Analysis (Map)
 Payment Method Distribution
 Order Status Analysis
 Top Customers Analysis
+
 Interactive Features
 Date Slicer
 Category Filter
@@ -49,12 +50,14 @@ Brand Filter
 State Filter
 Payment Method Filter
 Order Status Filter
+
 Key Insights
 Identified the highest-performing product categories and brands.
 Analyzed customer purchasing patterns and spending behavior.
 Evaluated regional sales performance across states.
 Monitored preferred payment methods and order fulfillment rates.
 Tracked sales trends to support business decision-making.
+
 Skills Demonstrated
 Data Cleaning & Transformation
 Data Modeling
