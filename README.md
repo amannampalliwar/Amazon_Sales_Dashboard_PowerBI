@@ -7,10 +7,15 @@ This project presents an interactive Amazon Sales Performance Dashboard develope
 
 Objectives
  Analyze overall sales performance and order trends.
+ 
  Identify top-performing products and brands.
+ 
  Monitor customer and regional sales patterns.
+ 
  Evaluate payment methods and order status distribution.
+ 
  Generate business insights for data-driven decision-making.
+ 
 
 Dataset Information
 Dataset: Amazon Sales Dataset
