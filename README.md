@@ -5,17 +5,22 @@ Amazon Sales Performance Dashboard 📊
 Project Overview
 This project presents an interactive Amazon Sales Performance Dashboard developed using Power BI to analyze sales performance, customer behavior, product trends, and regional insights. The dashboard transforms raw sales data into actionable business intelligence through KPIs, visualizations, and interactive filters.
 
-Objectives
+Objectives:
+
 Analyze overall sales performance and order trends.
 Identify top-performing products and brands.
 Monitor customer and regional sales patterns.
 Evaluate payment methods and order status distribution.
 Generate business insights for data-driven decision-making.
-Dataset Information
+
+Dataset Information:
+
 Dataset: Amazon Sales Dataset
 Records: 1,00,000+
 Features: Order Details, Customer Information, Product Details, Sales Metrics, Payment Methods, Regional Data, and Order Status.
-Tools & Technologies
+
+Tools & Technologies:
+
 Power BI Desktop
 Power Query
 DAX (Data Analysis Expressions)
